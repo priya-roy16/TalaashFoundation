@@ -83,3 +83,7 @@ li a:hover {
     height:75%;
 }
 
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
